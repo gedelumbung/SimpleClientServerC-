@@ -1,0 +1,8 @@
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\ExportDataToXML\bin\Debug\ExportDataToXML.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\ExportDataToXML\bin\Debug\ExportDataToXML.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\ExportDataToXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\ExportDataToXML\obj\Debug\ExportDataToXML.exe
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\ExportDataToXML\obj\Debug\ExportDataToXML.pdb
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\ExportDataToXML\obj\Debug\ExportDataToXML.MainForm.resources
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\ExportDataToXML\obj\Debug\ExportDataToXML.csproj.GenerateResource.Cache
+C:\Users\Gede Lumbung\Documents\SharpDevelop Projects\ExportDataToXML\obj\Debug\ExportDataToXML.frmTambahData.resources
